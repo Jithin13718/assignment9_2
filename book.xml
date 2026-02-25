@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="book.xsl"?>
+<bookstore>
+
+    <book>
+        <title>Computer Networks</title>
+        <author>Andrew S. Tanenbaum</author>
+        <isbn>9780132126953</isbn>
+        <publisher>Pearson Education</publisher>
+        <edition>5</edition>
+        <price>650.00</price>
+    </book>
+
+    <book>
+        <title>Operating System Concepts</title>
+        <author>Abraham Silberschatz</author>
+        <isbn>9781118063330</isbn>
+        <publisher>Wiley</publisher>
+        <edition>9</edition>
+        <price>720.00</price>
+    </book>
+
+    <book>
+        <title>Artificial Intelligence: A Modern Approach</title>
+        <author>Stuart Russell</author>
+        <isbn>9780136042594</isbn>
+        <publisher>Pearson Education</publisher>
+        <edition>3</edition>
+        <price>850.00</price>
+    </book>
+
+</bookstore>
